@@ -1,12 +1,12 @@
 from_nome = 'Mauricio Lima    '
-from_mail = 'leilaneonline@gmail.com'
+from_mail = 'email_from@gmail.com'
 to_nome = 'Destinatario'
-to_mail = 'annymayara.s@gmail.com'
+to_mail = 'email_to@gmail.com'
 servidor = 'smtp.gmail.com'
 porta = 587
 dominio = 'gmail.com'
-usuario = 'leilaneonline@gmail.com'
-senha = 'Danny123'
+usuario = 'email_from@gmail.com'
+senha = 'senha'
 assunto = 'Enviando e-mail com Ruby'
 texto = 'Texto do email'
 
